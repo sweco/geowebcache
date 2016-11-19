@@ -5,7 +5,7 @@
   <groupId>org.geowebcache</groupId>
   <artifactId>geowebcache</artifactId>
   <packaging>pom</packaging>
-  <version>1.7.3</version>
+  <version>1.7.3-sweco</version>
   <name>geowebcache</name>
   <url>http://geowebcache.org</url>
 
